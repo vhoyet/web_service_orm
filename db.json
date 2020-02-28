@@ -1,0 +1,38 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Thiiiiiim",
+      "username": "MakemeBrave"
+    },
+    {
+      "id": 2,
+      "name": "Vaaaaaal",
+      "username": "Guairden"
+    }
+  ],
+  "photo": [
+    {
+      "id": 1,
+      "title": "Image 1",
+      "albumId": 1
+    },
+    {
+      "id": 2,
+      "title": "Image 2",
+      "albumId": 1
+    }
+  ],
+  "album": [
+    {
+      "id": 1,
+      "title": "Cooloooos",
+      "userId": 1 
+    },
+    {
+      "id": 2,
+      "title": "DraCoolooooos",
+      "userId": 1 
+    }
+  ]
+}
